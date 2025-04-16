@@ -51,7 +51,7 @@ All pulled from forums, Reddit rants, and whispered dark magic from sysadmins on
 
 - **NO SUPPORT. NO HAND-HOLDING. NO MERCY.**  
 - You break it, you fix it. Learn Google-Fu.  
-- This is released under the **MIT License**, which basically means “do what you want, but don’t sue me.”  
+- This is released under the **GPL-3.0 license**, which basically means “do what you want, but don’t sue me.”  
 - If Microsoft’s lawyers are reading this, I’d like to say: *your OS is trash*. ❤️
 
 ---
